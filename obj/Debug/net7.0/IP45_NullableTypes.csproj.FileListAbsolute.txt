@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/bin/Debug/net7.0/IP45_NullableTypes
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/bin/Debug/net7.0/IP45_NullableTypes.deps.json
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/bin/Debug/net7.0/IP45_NullableTypes.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/bin/Debug/net7.0/IP45_NullableTypes.dll
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/bin/Debug/net7.0/IP45_NullableTypes.pdb
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.dll
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/refint/IP45_NullableTypes.dll
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.pdb
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/IP45_NullableTypes.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP45_NullableTypes/IP45_NullableTypes/obj/Debug/net7.0/ref/IP45_NullableTypes.dll
